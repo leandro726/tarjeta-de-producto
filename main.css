@@ -34,7 +34,7 @@ body{
 }
 .img{
     
-    background: url(/images/image-product-desktop.jpg);
+    background: url(./images/image-product-desktop.jpg);
     background-size: contain;
     width: 300px;
     height: 450px;
